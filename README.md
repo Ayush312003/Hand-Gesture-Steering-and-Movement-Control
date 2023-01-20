@@ -11,6 +11,6 @@ Current features :
 
 The program can be used for other applications as well, key bindings have to be taken into consideration.
 
-P.S : FOR IMPORVEMENTS | BUG FIXES | NEW IDEAS YOUR CAN FORK THIS REPOSITORY AND MAKE A PULL REQUEST FOR CHANGES.
+P.S : FOR IMPORVEMENTS | BUG FIXES | NEW IDEAS YOU CAN FORK THIS REPOSITORY AND MAKE A PULL REQUEST FOR CHANGES.
 
 For discussion E-mail me at ayushsingh312003@gmail.com
