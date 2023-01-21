@@ -4,7 +4,6 @@ import pydirectinput
 import directinput
 import time
 
-
 framecapture = cv2.VideoCapture(0) # Fetching video camera.
 # Setting video capture resolution for the webcam to 680x620 (px)
 framecapture.set(3, 680)
