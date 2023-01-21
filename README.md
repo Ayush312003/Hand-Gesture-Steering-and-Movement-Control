@@ -7,7 +7,7 @@ Current features :
 - Keep both hands horizontal to move forward
 - Keep right hand down and left hand up to steer right
 - Keep left hand down and right up to steer left
-- Put thumbs close to palm to make a drift if on a vehicle,  jump if walking/running
+- Put thumbs close to palm to make a drift if on a vehicle or jump if walking/running
 
 The program can be used for other applications as well, key bindings have to be taken into consideration.
 
