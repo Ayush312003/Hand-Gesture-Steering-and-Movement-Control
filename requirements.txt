@@ -21,4 +21,3 @@ PyScreeze==0.1.27
 python-dateutil==2.8.2
 PyTweening==1.0.3
 six==1.16.0
-
